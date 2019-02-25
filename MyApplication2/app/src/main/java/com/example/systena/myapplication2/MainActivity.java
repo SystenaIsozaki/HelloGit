@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
                     System.out.println("洗濯をします");
                 }else{
                     System.out.println("DVD");
+                    System.out.println("掃除");
 
                 }
             }
